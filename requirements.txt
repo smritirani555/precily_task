@@ -1,7 +1,6 @@
 numpy 
 pandas
 flask
-sklearn.feature_extraction.text
-sklearn.metrics.pairwise
+scikit-learn-intelex
 
 
